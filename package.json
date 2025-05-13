@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "element-plus": "^2.9.10",
+    "gsap": "^3.13.0",
     "pinia": "^3.0.2",
     "three": "^0.176.0",
     "unplugin-auto-import": "^19.2.0",
